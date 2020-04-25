@@ -10,5 +10,6 @@ Git - это сиситема контроля версий.
 * git config -- global user.email "iraximbaeva@gmail.com"
 * git diff - посмотреть изменения
 
+
 ## Github
 git remote add
