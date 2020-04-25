@@ -9,6 +9,9 @@ Git - это сиситема контроля версий.
 * git config -- global user.name "Rina0218" - конфигурируем, задаем имя из github
 * git config -- global user.email "iraximbaeva@gmail.com"
 * git diff - посмотреть изменения
+* git branch - список веток
+* git branch develop - создать ветку с именем develop
+* git checkout develop - переключиться в ветку
 
 ## Github
 git remote add
